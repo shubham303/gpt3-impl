@@ -15,6 +15,4 @@ The train.py script uses wandb library to log the training progress and hyperpar
 
 It's recommended to run the script on GPU for faster training, but if it's not available then you can use CPU by setting the device argument to 'cpu'
 
-You can fine tune the hyperparameters to get better results, it's always good to start with small values and then increase them gradually.
 
-The code is well commented and easy to understand, you can also modify it to suit your needs.
