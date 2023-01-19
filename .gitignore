@@ -1,0 +1,7 @@
+#ignore all except .py and .txt
+./__pycache__/
+./vscode/
+*.json
+./wandb/
+*.pyc
+wandb/
